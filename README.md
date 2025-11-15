@@ -14,7 +14,7 @@ I'm currently studying software development and focusing on front-end technologi
 
 ### 📈 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emanuelrferreira&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ### 📫 Contact
