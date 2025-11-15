@@ -12,10 +12,9 @@ I'm currently studying software development and focusing on front-end technologi
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,mysql,git,github,vscode,godot" />
 </p>
 
-### 📈 GitHub Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emanuelrferreira&show_icons=true&theme=dark&hide_border=true" />
-</p>
+### 📈 GitHub Stats
+![emanuelrferreira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emanuelrferreira&theme=vue-dark&hide_border=true)
+  
 
 ### 📫 Contact
 - 💼 LinkedIn: https://linkedin.com/in/emanuel-ferreira
